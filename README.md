@@ -1,5 +1,5 @@
 # C_Plus_Plus
-Projects that I created using C++
+Projects that I created using C++.
 
 The face project and animation4 are project created using OpenGL.
 
